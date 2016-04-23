@@ -14,6 +14,6 @@ solution('1', '2', '3', '2') // returns true
 
 The array values passed in will only be strings or numbers. The only valid return values are true and false.
 
-**Solution :** [solution.js](https://github.com/ouadie-lahdioui/calculating-averages/solution.js)
+**Solution :** [solution.js](https://github.com/ouadie-lahdioui/duplicate-arguments/blob/master/solution.js)
 
 **Source :** [codewars](http://www.codewars.com/kata/520d9c27e9940532eb00018e)
