@@ -1,0 +1,7 @@
+{
+    "name": "duplicate-arguments",
+    "version": "1.0.0",
+    "dependencies": {
+        "markdown": "~0.4"
+    }
+}
